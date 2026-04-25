@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+.env
+*.pkl
+*.h5
+*.joblib
+data/raw/
+*.log
+.vscode/
+.idea/
